@@ -33,8 +33,8 @@ make -j
 ## Gallery
 #### YouTube Video
 
-<a href="https://youtu.be/MlTtGBSUrVE" target="_blank"><img src="..." 
+<a href="https://youtu.be/MlTtGBSUrVE" target="_blank"><img src="https://github.com/Vulpinii/skin-texture/blob/master/images/youtube_skin.PNG" 
 alt="Skin Texture" width="100%" height="auto" border="10" /></a>
 
 #### Preview
-<p align="center"><img src="..." alt="Animated gif" width="100%" /></p>
+<p align="center"><img src="https://github.com/Vulpinii/skin-texture/blob/master/images/skin.gif" alt="Animated gif" width="100%" /></p>
